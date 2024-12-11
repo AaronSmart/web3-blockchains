@@ -36,7 +36,7 @@ export default {
     'https://endpoints.omniatech.io/v1/sol/mainnet/public',
   ],
   sockets: [
-    'wss://solana.drpc.org',
+    'wss://solana.drpccc.org',
     'wss://mainnet-beta.solflare.network',
     'wss://solana-rpc.publicnode.com'
   ],
